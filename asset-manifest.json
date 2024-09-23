@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HIT-CFFC/static/css/main.9f57004c.chunk.css",
+    "main.js": "/HIT-CFFC/static/js/main.2e5423b3.chunk.js",
+    "main.js.map": "/HIT-CFFC/static/js/main.2e5423b3.chunk.js.map",
+    "runtime-main.js": "/HIT-CFFC/static/js/runtime-main.cda5c79f.js",
+    "runtime-main.js.map": "/HIT-CFFC/static/js/runtime-main.cda5c79f.js.map",
+    "static/js/2.29324fe7.chunk.js": "/HIT-CFFC/static/js/2.29324fe7.chunk.js",
+    "static/js/2.29324fe7.chunk.js.map": "/HIT-CFFC/static/js/2.29324fe7.chunk.js.map",
+    "index.html": "/HIT-CFFC/index.html",
+    "static/css/main.9f57004c.chunk.css.map": "/HIT-CFFC/static/css/main.9f57004c.chunk.css.map",
+    "static/js/2.29324fe7.chunk.js.LICENSE.txt": "/HIT-CFFC/static/js/2.29324fe7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda5c79f.js",
+    "static/js/2.29324fe7.chunk.js",
+    "static/css/main.9f57004c.chunk.css",
+    "static/js/main.2e5423b3.chunk.js"
+  ]
+}
